@@ -16,7 +16,7 @@ p{
     color: hsl(212, 45%, 89%);
     padding-top: 0px;
 }
-h2{
+.content h1{
     font-weight: bolder;
-    color: hsl(218, 44%, 22%);
+     color: hsl(218, 44%, 22%); 
 }
