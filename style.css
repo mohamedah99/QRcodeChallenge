@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.qrcode{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 15px;
+}
+img{
+    border-radius: 10px;
+}
+p{
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+    padding-top: 0px;
+}
+h2{
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+}
